@@ -9,8 +9,8 @@ public class TimesTableCreatorView {
   }
 
   public void showTimesTable(TimesTableCreator timesTableCreator) {
-    for (int i = 0; i <= 10; i++) {
-      System.out.println(timesTableCreator.createTimesTable());
+    for (int i = 0; i < 10; i++) {
+      System.out.println(timesTableCreator.createTimesTable().get(i));
     }
   }
 }
