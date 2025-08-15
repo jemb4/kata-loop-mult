@@ -5,8 +5,6 @@
 [![Maven](https://img.shields.io/badge/Maven-3.9.6-red?logo=apachemaven)](https://maven.apache.org/)
 [![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen?logo=codecov)](https://github.com/tu-usuario/tabla-multiplicar)
 
-![Ejemplo de tabla de multiplicar](https://via.placeholder.com/400x200?text=Tabla+de+Multiplicar+5)
-
 ## 📌 Descripción
 
 Clase Java que genera tablas de multiplicar completas (del 1 al 10) con:
